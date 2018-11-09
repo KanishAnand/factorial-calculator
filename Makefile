@@ -3,3 +3,4 @@ default: factorial.cpp bigInteger.h doublyLinkedList.h
 
 clean:
 	rm factorial
+	echo "deleted"
